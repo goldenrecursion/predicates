@@ -1,0 +1,2 @@
+# Description
+The primary and official URL associated with this entity's Crunchbase profile page. For example, https://www.crunchbase.com/organization/golden-2cb6 is the primary and official Crunchbase URL associated with this entity.
