@@ -4,7 +4,7 @@ The contents in this repo populate many of the fields found in predicate definit
 A brief overview: predicates are used in triples - the building blocks of facts that link entities together forming a graph. The Golden protocol supports a rich schema with a growing number of predicates and qualifiers. Anyone can propose changes by opening a PR in this repo.
 
 ## How to contribute
-Check out our [contribution guide](https://www.notion.so/goldenhq/Predicate-Improvement-Process-42612ae10a6043918763ae23e6d513d3) for detailed instructions on how to make changes and join our [Discourse Forum](https://forum.golden.xyz/).
+Check out our [contribution guide](https://www.notion.so/goldenhq/Predicate-Improvement-Process-42612ae10a6043918763ae23e6d513d3) for detailed instructions on how to make changes.
 
 ## Resources
 - [Overview of Golden Protocol](https://golden.xyz/)
