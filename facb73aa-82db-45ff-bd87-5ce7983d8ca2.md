@@ -1,6 +1,3 @@
-# Description
-The primary and official URL associated with this entity's Crunchbase profile page. Only the Crunchbase profile directly affiliated with the entity should be used, not the Crunchbase profile for the entity's parent organization, subsidiaries, etc.
-
 # Example of Proper Usage
 * '[Golden](https://golden.com/wiki/Golden-5R)' -> 'Crunchbase URL' -> 'https://www.crunchbase.com/organization/golden-2cb6' is correct, as this Crunchbase profile is a direct representation of Golden.
 
